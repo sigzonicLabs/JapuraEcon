@@ -13,8 +13,7 @@ These are the instructions for setting up the project locally. If you are hoping
 
 ### Fork the project
 You can fork the project by clicking the fork button on the top right corner of the page.
-
-While it's forking, it will look like this.
+![Screen-Recording-2020-05-23-at-8](https://user-images.githubusercontent.com/35812345/82733467-a119c380-9d31-11ea-9a22-882c5c220c8c.gif)
 
 ### Clone the project you forked
 The URL of the project you cloned would look like 
